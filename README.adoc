@@ -1,0 +1,13 @@
+= Real-time temperature and humidity monitoring with ESP32
+
+_Sinh viên thực hiện_: Nguyễn Gia Huy (2001221654) - 13DHTH_TD
+
+== How to
+
+Chạy 2 instances ESP32 trên [Wokwi](https://wokwi.com/):
+
+  * _Sensors_: Thiết bị ghi nhận nhiệt độ và độ ẩm.
+
+  * _Displayer_: Thiết bị đầu cuối để hiển thị ra màn hình LCD.
+
+*Lưu ý*: `MQTT_SERVER` sử dụng trong đoạn code trên đã được vô hiệu hóa.
